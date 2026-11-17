@@ -3,3 +3,4 @@
 3;Mago de Hielo;Agua;60;40;2
 4;Guardian;Tierra;30;100;3
 5;Dragon Oscuro;Oscuridad;100;70;5
+6;Octorok;Agua;20;30;1
